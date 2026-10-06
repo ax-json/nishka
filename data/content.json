@@ -1,0 +1,33 @@
+{
+  "posts": [],
+  "milestones": [
+    { "label": "Expert conversations", "value": null },
+    { "label": "User feedback responses", "value": null },
+    { "label": "Interviews conducted", "value": null },
+    { "label": "Research outputs", "value": null },
+    { "label": "Educational modules", "value": null },
+    { "label": "Public reach", "value": null }
+  ],
+  "shelves": [
+    {
+      "title": "For learners",
+      "detail": "Financial literacy resources — plain-language material on how credit works, what a credit file contains, and how to build one.",
+      "files": []
+    },
+    {
+      "title": "For researchers",
+      "detail": "Research papers, methodology and datasets where publicly shareable — including the documentation behind every figure we publish.",
+      "files": []
+    },
+    {
+      "title": "For organisations",
+      "detail": "Credit-literacy presentations and educational material for NGOs and community organisations to use in their own programmes.",
+      "files": []
+    },
+    {
+      "title": "For credit professionals",
+      "detail": "Research insights and interview findings for people who assess borrowers and design credit products.",
+      "files": []
+    }
+  ]
+}
